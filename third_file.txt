@@ -1,5 +1,0 @@
-this is the thrid file we added to the thrid file txt
-
-
-now we have added 2nd line in thrid files text from local machine
-
